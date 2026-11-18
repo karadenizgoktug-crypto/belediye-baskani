@@ -1,0 +1,23 @@
+{
+  "appId": "com.yilmazcreative.belediyebaskani",
+  "appName": "Belediye Başkanı",
+  "webDir": "www",
+  "android": {
+    "backgroundColor": "#090c14",
+    "allowMixedContent": false
+  },
+  "plugins": {
+    "SystemBars": {
+      "insetsHandling": "native",
+      "initialViewportFitValueHint": "cover",
+      "style": "DARK"
+    },
+    "SplashScreen": {
+      "launchShowDuration": 1500,
+      "launchAutoHide": true,
+      "backgroundColor": "#090c14",
+      "showSpinner": false,
+      "androidScaleType": "CENTER_INSIDE"
+    }
+  }
+}

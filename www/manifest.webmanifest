@@ -1,0 +1,19 @@
+{
+  "name": "Belediye Başkanı: Şehir Yönetimi",
+  "short_name": "Belediye Başkanı",
+  "description": "Şehrini yönet, şikayetleri çöz, krizleri yönet ve seçimleri kazan!",
+  "lang": "tr",
+  "id": "./",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090c14",
+  "theme_color": "#090c14",
+  "categories": ["games", "simulation"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
