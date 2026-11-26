@@ -1,5 +1,5 @@
 // Belediye Başkanı — çevrimdışı çalışma için önbellek
-const CACHE = 'belediye-baskani-v5';
+const CACHE = 'belediye-baskani-v6';
 const ASSETS = ['./', './index.html', './manifest.webmanifest',
   './icons/icon-192.png', './icons/icon-512.png', './icons/maskable-512.png', './icons/apple-touch-icon.png', './icons/favicon-64.png'];
 
